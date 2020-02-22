@@ -1005,6 +1005,7 @@
       <entry value="19" name="COPTER_MODE_AVOID_ADSB"/>
       <entry value="20" name="COPTER_MODE_GUIDED_NOGPS"/>
       <entry value="21" name="COPTER_MODE_SMART_RTL"/>
+      <entry value="27" name="COPTER_MODE_MISSION"/>
     </enum>
     <enum name="SUB_MODE">
       <description>A mapping of sub flight modes for custom_mode field of heartbeat.</description>
